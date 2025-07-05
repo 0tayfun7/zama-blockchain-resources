@@ -1,23 +1,17 @@
 # Zama Blockchain Resources
 
-Welcome to the community-driven resource hub for [Zama](https://www.zama.ai), the fully homomorphic encryption (FHE) powered blockchain project.
+This repository is a community-driven knowledge hub about [Zama](https://www.zama.ai) — a blockchain project that brings full privacy to smart contracts using Fully Homomorphic Encryption (FHE).
 
-This repository contains:
-- 📚 Educational content on Zama and FHE
-- 🧠 Research insights & use case ideas
-- 🛠️ Sample applications and tools
-- 📎 Useful links and references
+## 📘 Contents
 
-## Why Zama?
+- 🔐 What is Fully Homomorphic Encryption?
+- 🧠 Use Cases (DeFi, Healthcare, DAOs)
+- 🛠️ Tools & SDKs
+- 📎 Zama Learning Resources
 
-Zama is building the next generation of privacy-preserving blockchains with FHE. It allows developers to build smart contracts that **compute on encrypted data**.
+## 🤝 Contribute
 
-## Useful Links
-- [Official Website](https://www.zama.ai)
-- [Documentation](https://docs.zama.ai)
-- [GitHub](https://github.com/zama-ai)
-- [Discord](https://discord.gg/zama)
+Feel free to open issues or submit PRs to add resources, articles, tools, or questions. Together we build a stronger privacy-first Web3.
 
----
 
 
